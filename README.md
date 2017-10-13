@@ -15,7 +15,21 @@ Technician / Operator/ Trainer in Printing and 3D Printers.
 
 ## Projects
 
+### Módulo de reconocimiento gestual para control de robot en tareas de asistencia
+
 <img src="modulodereconocimientogestualparacontrolderobotentareasdeasistencia.png" alt="lub1" height="250" width="360" align="middle">
+
+Módulo para el control de robots y herramientas electro-mecánicas vía gestos y voz.
+Control operativo en tareas asistenciales, mediante el uso del módulo. Control 6 g.d.l, control telemático e inalámbrico, con incorporación simultanea de control por voz.
+Movimiento cartesiano X, Y, Z, así como movimiento rotacional Yaw, Pitch, Roll, junto al control de estado de la pinza en cuestión.
+
+Asistencia mediante notificaciones de control e instrucciones de uso.
+Modalidades de funcionamiento:
+1.Control tiempo real cartesiano.
+2.Control tiempo real velocidades de inclinación.
+3.Control tiempo real campo de velocidades de inclinación.
+4.Control por voz.
+5.Simultanea de control por voz, con un método gestual.
 
 ## Contact me
  
