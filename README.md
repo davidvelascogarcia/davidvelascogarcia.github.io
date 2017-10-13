@@ -1,4 +1,4 @@
-<img src="davidvelascogarcia.jpg" alt="lub1" height="325" width="325" align="middle">
+<img src="davidvelascogarcia.jpg" alt="lub1" height="250" width="250" align="middle">
 
 ## About me
 
