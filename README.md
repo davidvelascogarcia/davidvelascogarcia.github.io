@@ -1,6 +1,6 @@
-<img src="davidvelascogarcia.jpg" alt="lub1" height="250" width="250" align="middle">
-
 ## About me
+
+<img src="davidvelascogarcia.jpg" alt="lub1" height="250" width="250" align="middle">
 
 Degree in Engineering in Industrial Technologies.
 Seal of Intensification in Automatic and Electronic, SET.
