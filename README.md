@@ -44,7 +44,7 @@ Modalidades de funcionamiento:
 
 ### Robot de almacenaje en célula flexible de fabricación
 
-<img src="robotdealmacenajeenceluladefabricacionflexible.png" alt="lub1" height="250" width="400" align="middle">
+<img src="robotdealmacenajeencelulaflexible.png" alt="lub1" height="250" width="400" align="middle">
 
 
 Programación en lenguaje de contactos de robot de almacenaje en célula de fabricación flexible.
