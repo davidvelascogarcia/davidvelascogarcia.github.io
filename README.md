@@ -1,4 +1,4 @@
-[Image](davidvelascogarcia.jpg)
+<img src="davidvelascogarcia.jog" alt="lub1" height="325" width="325" align="middle">
 
 ## About me
 
