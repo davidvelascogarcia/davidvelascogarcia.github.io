@@ -3,9 +3,7 @@
 <img src="davidvelascogarcia.jpg" alt="lub1" height="250" width="250" align="middle">
 
 Grado en Ingeniería en Tecnologías Industriales.
-
 Sello de Intensificación en Automática y Electrónica, S.E.T. Sello de Emprendedor, S.E.T.
-
 Finalista Premios Consejo Social TFG Emprende. Semifinalista Premios VENTURES4GRANCANARIA. 
 Publicación Congreso Internacional Tecnología y Turismo para todas las personas, Accesibilidad 4.0, DRT4ALL 2017.
 
