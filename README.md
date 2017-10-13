@@ -2,16 +2,10 @@
 
 <img src="davidvelascogarcia.jpg" alt="lub1" height="250" width="250" align="middle">
 
-Degree in Engineering in Industrial Technologies.
-Seal of Intensification in Automatic and Electronic, SET.
-Stamp of Entrepreneur, SET.
-Finalist Prizes Social Council TFG Emprende.
-Semifinalist VENTURES4GRANCANARIA Awards.
-Publication International Conference Tecnology and Tourism for all people, Accessibility 4.0, DRT4ALL 2017.
-Robotics Association (ASROB) UC3M
-UAVs - Quadcopters. Design, construction, R & D & I.
-Printer One, Modeling and 3D Printing.
-Technician / Operator/ Trainer in Printing and 3D Printers.
+Grado en Ingeniería en Tecnologías Industriales.
+Sello de Intensificación en Automática y Electrónica, S.E.T. Sello de Emprendedor, S.E.T. 
+Finalista Premios Consejo Social TFG Emprende. Semifinalista Premios VENTURES4GRANCANARIA. 
+Publicación Congreso Internacional Tecnología y Turismo para todas las personas, Accesibilidad 4.0, DRT4ALL 2017.
 
 ## Projects
 
