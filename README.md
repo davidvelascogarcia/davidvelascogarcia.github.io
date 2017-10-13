@@ -15,7 +15,7 @@ Technician / Operator/ Trainer in Printing and 3D Printers.
 
 ## Projects
 
-<img src="modulodereconocimientogestualparacontrolderobotentareasdeasistencia.png" alt="lub1" height="250" width="200" align="middle">
+<img src="modulodereconocimientogestualparacontrolderobotentareasdeasistencia.png" alt="lub1" height="250" width="360" align="middle">
 
 ## Contact me
  
