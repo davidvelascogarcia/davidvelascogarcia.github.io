@@ -9,6 +9,7 @@ Publicación Congreso Internacional Tecnología y Turismo para todas las persona
 ## Index
 
 	1. Projects
+	
 		i. Módulo de reconocimiento gestual para control de robot en tareas de asistencia 
         ii. Robot de almacenaje en célula flexible de fabricación
         iii. Robótica Industrial
@@ -22,6 +23,7 @@ Publicación Congreso Internacional Tecnología y Turismo para todas las persona
         ix. Medical Scale IMC
         x. O.C.R
         xi. S.I.D.R.O
+        
 	2. Contact me
 
 ## Contenido
@@ -116,25 +118,29 @@ Bewi es un robot humanoide de 20 gdl autónomo de apoyo multifuncional. Se trata
 Tiene la capacidad de detección de humedades. Incluye reconocimiento de voz, así como interacción con el usuario a través de la misma. Junto a un sistema de detección y reconocimiento de objetos vía webcam para control a distancia.
 Incluye modo de control manual vía control por voz, medios gestuales y teclado o gamepad.
 
-(Aún en fase de desarrollo).
+
 
 ![Bewi](./images/image2.jpg)
 
 Figura 1. Prototipo Bewi        
         
         vi. Wish: Robot movil
+        
 Wish es un robot móvil autónomo de apoyo multifuncional. Se trata de un robot autónomo, capaz de analizar el entorno gracias a un sensorizado. Haciéndolo ideal para la detección de dióxido de carbono, alcohol, amoniaco, butano, propano y metano. A su vez, es capaz de detectar la temperatura, permitíendole la detección de fuegos. Tiene la capacidad de detección de humedades. Incluye reconocimiento de voz, así como interacción con el usuario a través de la misma. Junto a un sistema de detección y reconocimiento de objetos vía webcam para control a distancia. Incluye modo de control manual vía control por voz, medios gestuales y teclado o gamepad.       
 
 ![Wish](./images/image1.jpg)
 
         
         vii. Promethus: Drone
+        
 Drone inteligente.        
         
         viii. Barret: Plotter CNC
+        
 Plotter CNC inteligente.
 
         ix. Medical Scale IMC
+        
 Báscula médica para el cálculo de IMC, con placa de control arduino, LCD y sensor infrarrojo SHARP para media de alturas.
 
 **+info**
@@ -157,7 +163,7 @@ David Velasco García
 
 Figura 1. Logo O.C.R
 
-+info
+**+info**
 
 [Video](https://www.youtube.com/watch?v=UbUXkQyqtrw&t=1s)
 
@@ -184,7 +190,7 @@ Figura 1. Logo S.I.D.R.O
 
 
 
-+info
+**+info**
 
 [Video](https://www.youtube.com/watch?v=6xuxJO7wIko)
 
