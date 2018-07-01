@@ -49,7 +49,7 @@ Modalidades de funcionamiento:
 - Simultanea de control por voz, con un método gestual.
 
 
-[Sitio web](http://davidvelascogarcia.blogspot.com.es/2017/09/modulo-de-reconocimiento-gestual-para.html)
+Para más información consulte: [Sitio web](http://davidvelascogarcia.blogspot.com.es/2017/09/modulo-de-reconocimiento-gestual-para.html)
 
 
 #### Robot de almacenaje en célula flexible de fabricación
@@ -63,7 +63,7 @@ Figura 2. Robot de almacenaje
 Programación en lenguaje de contactos de robot de almacenaje en célula de fabricación flexible.
 
 
-[+info...](http://davidvelascogarcia.blogspot.com.es/2017/10/robot-de-almacenaje-en-celula-de.html)
+Para más información consulte: [Sitio web](http://davidvelascogarcia.blogspot.com.es/2017/10/robot-de-almacenaje-en-celula-de.html)
 
 
 ### Robótica Industrial
@@ -77,7 +77,7 @@ Figura 3. Simulación
 
 Simulación mediante Robotstudio de una célula flexible, de transporte y limpieza de androides, visualización en forma secuencial, de un solo ciclo.
 
-[+info...](http://davidvelascogarcia.blogspot.com.es/p/robotica-industrial.html)
+Para más información consulte: [Sitio web](http://davidvelascogarcia.blogspot.com.es/p/robotica-industrial.html)
 
 
 
@@ -135,9 +135,7 @@ Plotter CNC inteligente.
         
 Báscula médica para el cálculo de IMC, con placa de control arduino, LCD y sensor infrarrojo SHARP para media de alturas.
 
-**+info**
-
-- [Documentación](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
+Para más información consulte: [Documentación](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
         
 #### O.C.R
         
@@ -154,7 +152,7 @@ Desarrollado en C# y .NET, con uso de librerias Speech de Microsoft, así como D
 
 Figura 1. Logo O.C.R
 
-**+info**
+Para más información consulte: 
 
 - [Video](https://www.youtube.com/watch?v=UbUXkQyqtrw&t=1s)
 
@@ -175,7 +173,7 @@ Desarrollado en C# y .NET, con uso de librerias Speech de Microsoft, así como D
 
 Figura 1. Logo S.I.D.R.O
 
-**+info**
+Para más información consulte: 
 
 - [Video](https://www.youtube.com/watch?v=6xuxJO7wIko)
 
