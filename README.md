@@ -1,9 +1,5 @@
 # About me
 
-
-<img src="./images/perfil.jpg" alt="lub1" height="250" width="250" align="middle">
-
-
 Engineer with 4+ years of work experience in various fields like robotics, automation, software developt, CAD design ... Industrial Engineer. Robotics and Automation Engineer. MSc. D. Industrial Engineering MSc. D. Robotics and Automation B. D. Industrial Technologies Engineering Seal Intensification in Automation and Electronics
 
 # Public Projects
