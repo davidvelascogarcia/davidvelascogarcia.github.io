@@ -1,14 +1,14 @@
 # About me
 
 
-<img style="border-radius:50% "src="./images/perfil.jpg" alt="lub1" height="250" width="250" align="middle">
+<img src="./images/perfil.jpg" alt="lub1" height="250" width="250" align="middle">
 
 
 Engineer with 4+ years of work experience in various fields like robotics, automation, software developt, CAD design ... Industrial Engineer. Robotics and Automation Engineer. MSc. D. Industrial Engineering MSc. D. Robotics and Automation B. D. Industrial Technologies Engineering Seal Intensification in Automation and Electronics
 
-## Public Projects
+# Public Projects
 
-### Computer Vision
+## Computer Vision
 
 * [facialAnalysisLiteDetection2D](https://github.com/davidvelascogarcia/facialAnalysisLiteDetection2D): Detector implementation for the analysis of facial features. Using the cvlib API analysis for gender extraction and prediction. Via OpenCV DNN, age prediction. Throug… DOC: [web](https://davidvelascogarcia.github.io/facialAnalysisLiteDetection2D/)
 
@@ -25,7 +25,7 @@ Engineer with 4+ years of work experience in various fields like robotics, autom
 * [tensorflowLiteDetection2D](https://github.com/davidvelascogarcia/tensorflowLiteDetection2D):  Classifier detector implementation with Tensorflow Lite 2D, Python API, VGG16, pre and post-processed video broadcast via YARP. Calculation and emission of detections and… DOC: [web](https://davidvelascogarcia.github.io/tensorflowLiteDetection2D/)
 
 
-### Speech Recognition
+## Speech Recognition
 
 * [speechRecognition](https://github.com/davidvelascogarcia/speechRecognition): Implementation of a speech recognition system through the Google Speech API. Network audio source reception via YARP. Broadcast of recognized text over the network via YARP. DOC: [web](https://davidvelascogarcia.github.io/speechRecognition/)
 
@@ -33,11 +33,11 @@ Engineer with 4+ years of work experience in various fields like robotics, autom
 
 * [voskSpeechRecognition](https://github.com/davidvelascogarcia/voskSpeechRecognition): Implementation of an offline speech recognition system using the vosk API in Python. Network audio source reception via YARP. Broadcast of voice recognition results over the … DOC: [web](https://davidvelascogarcia.github.io/voskSpeechRecognition/)
 
-### TTS
+## TTS
 
 * [ttsEngine](https://github.com/davidvelascogarcia/ttsEngine): Implementation of text to speech module in Python. Reception of text to be synthesized over the network, via YARP. Platform detection in use and TTS engine selection according to it. DOC: [web](https://davidvelascogarcia.github.io/ttsEngine/)
 
-### Knowledge
+## Knowledge
 
 * [googleTranslatorEngine](https://github.com/davidvelascogarcia/googleTranslatorEngine): Translator implementation using the Google Translator API in Python. Reception of text to be translated through YARP port. Translation emission through YARP port. DOC: [web](https://davidvelascogarcia.github.io/googleTranslatorEngine/)
 
@@ -49,7 +49,7 @@ Engineer with 4+ years of work experience in various fields like robotics, autom
 
 * [sentimentAnalysis](https://github.com/davidvelascogarcia/sentimentAnalysis): Sentiment Analysis implementation with the TextBlob Python API. Receipt of text to be analyzed via YARP and publication of results via YARP port. DOC: [web](https://davidvelascogarcia.github.io/sentimentAnalysis/)
 
-### Productivity
+## Productivity
 
 * [githubRepoDownloader](https://github.com/davidvelascogarcia/githubRepoDownloader): Simple script in Python to download all public repositories from a GitHub user. DOC: [web](https://davidvelascogarcia.github.io/githubRepoDownloader/)
 
@@ -58,45 +58,19 @@ Engineer with 4+ years of work experience in various fields like robotics, autom
 * [webMonitoringBot](https://github.com/davidvelascogarcia/webMonitoringBot): Implementation of a bot for monitoring changes in websites through web scraping. Complete analysis of the web or specific elements. Alert via desktop and / or push notifications v… DOC: [web](https://davidvelascogarcia.github.io/webMonitoringBot/)
 
 
-### Security
+## Security
 
 * [cryptoSecurityEncoder](https://github.com/davidvelascogarcia/cryptoSecurityEncoder): Implementation of data encryption and decryption with AES 256 AND 512 encryption. Data encryption in authenticated mode GCM, CMC, EAX ... Data encryption using KDF key deriva… DOC: [web](https://davidvelascogarcia.github.io/cryptoSecurityEncoder/)
 
 * [gpsTracker](https://github.com/davidvelascogarcia/gpsTracker): Implementation of a GPS tracking system. Receipt of coordinates via YARP. Obtaining and marking of maps via Folium. DOC: [web](https://davidvelascogarcia.github.io/gpsTracker/)
 
+# Contact me
 
-
-
-## Contact me
-
-<table style="align:center">
-<tr>
-<th>
 [Linkedin](https://www.linkedin.com/in/davidvelascogarcia/)
-</th>
-<th>
 [GitHub](https://github.com/davidvelascogarcia)
-</th>
-<th>
 [ORCID](http://orcid.org/0000-0001-7934-2836)
-</th>
-<th>
 [ResearchGate](https://www.researchgate.net/profile/David_Velasco_Garcia)
-</th>
-<th>
 [Youtube](https://www.youtube.com/channel/UCsC2ihUdekiNy3KlXhBcH4Q?view_as=subscriberpolymer%3Dtrue)
-</th>
-<th>
 [Thingiverse](https://www.thingiverse.com/davidvelascogarcia/about)
-</th>
-<th>
 [Blogspot](http://davidvelascogarcia.blogspot.com.es/)
-</th>
-<th>
 [SlideShare](https://es.slideshare.net/DavidVelascoGarcia)
-</th>
-</tr>
-
-</table>
-
-
