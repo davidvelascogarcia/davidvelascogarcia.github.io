@@ -1,19 +1,10 @@
 # About me
 
 
-Engineer with 4+ years of work experience in various fields like robotics, automation, software developt, CAD design ... Industrial Engineer. Robotics and Automation Engineer. MSc. D. Industrial Engineering MSc. D. Robotics and Automation B. D. Industrial Technologies Engineering Seal Intensification in Automation and Electronics
-<table>
-<tr>
-<th>
 <img style="border-radius:50% "src="./images/perfil.jpg" alt="lub1" height="250" width="250" align="middle">
 
-</th>
-<th style="width:70%">
-Engineer with 4+ years of work experience in various fields like robotics, automation, software developt, CAD design ... Industrial Engineer. Robotics and Automation Engineer. MSc. D. Industrial Engineering MSc. D. Robotics and Automation B. D. Industrial Technologies Engineering Seal Intensification in Automation and Electronics
-</th>
-<tr>
-</table>
 
+Engineer with 4+ years of work experience in various fields like robotics, automation, software developt, CAD design ... Industrial Engineer. Robotics and Automation Engineer. MSc. D. Industrial Engineering MSc. D. Robotics and Automation B. D. Industrial Technologies Engineering Seal Intensification in Automation and Electronics
 
 ## Public Projects
 
