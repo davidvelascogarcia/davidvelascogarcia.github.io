@@ -1,195 +1,109 @@
-# About me
+# David Velasco Garcia
 
-<img src="./images/davidvelascogarcia.jpg" alt="lub1" height="250" width="250" align="middle">
+<table>
+<tr>
+<th>
+<img style="border-radius:50% "src="./images/perfil.jpg" alt="lub1" height="250" width="250" align="middle">
 
-Grado en Ingeniería en Tecnologías Industriales.Sello de Intensificación en Automática y Electrónica, S.E.T. 
-Sello de Emprendedor, S.E.T.Finalista Premios Consejo Social TFG Emprende. Semifinalista Premios VENTURES4GRANCANARIA. 
-Publicación Congreso Internacional Tecnología y Turismo para todas las personas, Accesibilidad 4.0, DRT4ALL 2017.
+</th>
+<th style="width:70%">
+Engineer with 4+ years of work experience in various fields like robotics, automation, software developt, CAD design ... Industrial Engineer. Robotics and Automation Engineer. MSc. D. Industrial Engineering MSc. D. Robotics and Automation B. D. Industrial Technologies Engineering Seal Intensification in Automation and Electronics
+</th>
+<tr>
+</table>
 
-- [Projects](#projects)
-	- [Módulo de reconocimiento gestual para control de robot en tareas de asistencia](#Módulo-de-reconocimiento-gestual-para-control-de-robot-en-tareas-de-asistencia) 
-	- [Robot de almacenaje en célula flexible de fabricación](#Robot-de-almacenaje-en-célula-flexible-de-fabricación)
-	- [Robótica Industrial](#Robótica-Industrial)
-	- [Leap motion Drone controller](#Leap-motion-Drone-controller)
-	- [RL78-G14 Space Invaders](#RL78-G14-Space-Invaders)
-	- [Tensorflow Object Recognition](#Tensorflow-Object-Recognition)
-	- [Bewi Robot humanoide](#Bewi-Robot-humanoide)
-	- [Wish Robot movil](#Wish-Robot-movil)
-	- [Promethus Drone](#Promethus-Drone)
-	- [Barret: Plotter CNC](#Barret-Plotter-CNC)
-	- [Medical Scale IMC](#Medical-Scale-IMC)
-	- [O.C.R](#O.C.R)
-	- [S.I.D.R.O](#S.I.D.R.O)
-- [Contact me](#contact-me)
 
-## Projects
+## Public Projects
 
-### Módulo de reconocimiento gestual para control de robot en tareas de asistencia 
+### Computer Vision
 
+* [facialAnalysisLiteDetection2D](https://github.com/davidvelascogarcia/facialAnalysisLiteDetection2D): Detector implementation for the analysis of facial features. Using the cvlib API analysis for gender extraction and prediction. Via OpenCV DNN, age prediction. Throug… DOC: [web](https://davidvelascogarcia.github.io/facialAnalysisLiteDetection2D/)
 
-<img src="./images/modulodereconocimientogestualparacontrolderobotentareasdeasistencia.png" alt="lub1" height="250" width="400" align="middle">
+* [facialAnalysisDetection2D](https://github.com/davidvelascogarcia/facialAnalysisDetection2D): Detector implementation for the analysis of facial features. Using the deepFace API, analysis for the extraction and prediction of gender, age, ethnicity and emotions. Im… DOC: [web](https://davidvelascogarcia.github.io/facialAnalysisDetection2D/)
 
-Figura 1. Entorno habilitado
+* [facialRecognitionDetection2D](https://github.com/davidvelascogarcia/facialRecognitionDetection2D): Implementation of 2D facial recognition detector, Python API, dlib, pre and post-processed video broadcast via YARP. Calculation and emission of detections and coordin… DOC: [web](https://davidvelascogarcia.github.io/facialRecognitionDetection2D/)
 
-Módulo para el control de robots y herramientas electro-mecánicas vía gestos y voz.
-Control operativo en tareas asistenciales, mediante el uso del módulo. Control 6 g.d.l, control telemático e inalámbrico, con incorporación simultanea de control por voz.
-Movimiento cartesiano X, Y, Z, así como movimiento rotacional Yaw, Pitch, Roll, junto al control de estado de la pinza en cuestión.
+* [humanActivityDetection2D](https://github.com/davidvelascogarcia/humanActivityDetection2D) Implementation of 2D detector of human actions through DNN with OpenCV. Video source reception via YARP, processed video source emission and results, through YARP ports. I… DOC: [web](https://davidvelascogarcia.github.io/humanActivityDetection2D/)
 
-Asistencia mediante notificaciones de control e instrucciones de uso.
-Modalidades de funcionamiento:
+* [kinect360ImageEngine3D](https://github.com/davidvelascogarcia/kinect360ImageEngine3D): Implementation of capture of video sources of the Kinect 360. Obtaining RGB images, depth, depth with color, infrared and distances to them. Emission of video sources throug… DOC: [web](https://davidvelascogarcia.github.io/kinect360ImageEngine3D/)
 
-- Control tiempo real cartesiano.
+* [multipleObjectTracker2D](https://github.com/davidvelascogarcia/multipleObjectTracker2D): Implementation of multipurpose tracking module with OpenCV. Support for video source reception via YARP. Publication of processing and coordinates via YARP. DOC: [web](https://davidvelascogarcia.github.io/multipleObjectTracker2D/)
 
-- Control tiempo real velocidades de inclinación.
+* [tensorflowLiteDetection2D](https://github.com/davidvelascogarcia/tensorflowLiteDetection2D):  Classifier detector implementation with Tensorflow Lite 2D, Python API, VGG16, pre and post-processed video broadcast via YARP. Calculation and emission of detections and… DOC: [web](https://davidvelascogarcia.github.io/tensorflowLiteDetection2D/)
 
-- Control tiempo real campo de velocidades de inclinación.
 
-- Control por voz.
+### Speech Recognition
 
-- Simultanea de control por voz, con un método gestual.
+* [speechRecognition](https://github.com/davidvelascogarcia/speechRecognition): Implementation of a speech recognition system through the Google Speech API. Network audio source reception via YARP. Broadcast of recognized text over the network via YARP. DOC: [web](https://davidvelascogarcia.github.io/speechRecognition/)
 
+* [speechRecognitionTranscriber](https://github.com/davidvelascogarcia/speechRecognitionTranscriber): Implementation of video / audio to text transcriber using speech recognition with the Google Speech API. DOC: [web](https://davidvelascogarcia.github.io/speechRecognitionTranscriber/)
 
-Para más información consulte: [Sitio web](http://davidvelascogarcia.blogspot.com.es/2017/09/modulo-de-reconocimiento-gestual-para.html)
+* [voskSpeechRecognition](https://github.com/davidvelascogarcia/voskSpeechRecognition): Implementation of an offline speech recognition system using the vosk API in Python. Network audio source reception via YARP. Broadcast of voice recognition results over the … DOC: [web](https://davidvelascogarcia.github.io/voskSpeechRecognition/)
 
+### TTS
 
-#### Robot de almacenaje en célula flexible de fabricación
+* [ttsEngine](https://github.com/davidvelascogarcia/ttsEngine): Implementation of text to speech module in Python. Reception of text to be synthesized over the network, via YARP. Platform detection in use and TTS engine selection according to it. DOC: [web](https://davidvelascogarcia.github.io/ttsEngine/)
 
+### Knowledge
 
+* [googleTranslatorEngine](https://github.com/davidvelascogarcia/googleTranslatorEngine): Translator implementation using the Google Translator API in Python. Reception of text to be translated through YARP port. Translation emission through YARP port. DOC: [web](https://davidvelascogarcia.github.io/googleTranslatorEngine/)
 
-<img src="./images/robotdealmacenajeencelulaflexible.png" alt="lub1" height="250" width="400" align="middle">
+* [wikipediaKnowledge](https://github.com/davidvelascogarcia/wikipediaKnowledge): Module implementation for acquiring Wikipedia information through its Python API. Reception of requests through YARP port. Issuance of results by YARP port. DOC: [web](https://davidvelascogarcia.github.io/wikipediaKnowledge/)
 
-Figura 2. Robot de almacenaje
+* [wolframAlphaKnowledge](https://github.com/davidvelascogarcia/wolframAlphaKnowledge):  Implementation of module for the acquisition of information and solving of mathematical operations through the Wolfram Alpha API. Request reception through YARP port. Results… DOC: [web](https://davidvelascogarcia.github.io/wolframAlphaKnowledge/)
 
-Programación en lenguaje de contactos de robot de almacenaje en célula de fabricación flexible.
+### Sentiment Analysis
 
+* [sentimentAnalysis](https://github.com/davidvelascogarcia/sentimentAnalysis): Sentiment Analysis implementation with the TextBlob Python API. Receipt of text to be analyzed via YARP and publication of results via YARP port. DOC: [web](https://davidvelascogarcia.github.io/sentimentAnalysis/)
 
-Para más información consulte: [Sitio web](http://davidvelascogarcia.blogspot.com.es/2017/10/robot-de-almacenaje-en-celula-de.html)
+### Productivity
 
+* [githubRepoDownloader](https://github.com/davidvelascogarcia/githubRepoDownloader): Simple script in Python to download all public repositories from a GitHub user. DOC: [web](https://davidvelascogarcia.github.io/githubRepoDownloader/)
 
-### Robótica Industrial
+* [gitRepoUpdater](https://github.com/davidvelascogarcia/gitRepoUpdater): Simple script in Python to update local repositories. DOC: [web](https://davidvelascogarcia.github.io/gitRepoUpdater/)
 
+* [webMonitoringBot](https://github.com/davidvelascogarcia/webMonitoringBot): Implementation of a bot for monitoring changes in websites through web scraping. Complete analysis of the web or specific elements. Alert via desktop and / or push notifications v… DOC: [web](https://davidvelascogarcia.github.io/webMonitoringBot/)
 
 
-<img src="simulacionrobotstudio.png" alt="lub1" height="250" width="400" align="middle">
+### Security
 
+* [cryptoSecurityEncoder](https://github.com/davidvelascogarcia/cryptoSecurityEncoder): Implementation of data encryption and decryption with AES 256 AND 512 encryption. Data encryption in authenticated mode GCM, CMC, EAX ... Data encryption using KDF key deriva… DOC: [web](https://davidvelascogarcia.github.io/cryptoSecurityEncoder/)
 
-Figura 3. Simulación
+* [gpsTracker](https://github.com/davidvelascogarcia/gpsTracker): Implementation of a GPS tracking system. Receipt of coordinates via YARP. Obtaining and marking of maps via Folium. DOC: [web](https://davidvelascogarcia.github.io/gpsTracker/)
 
-Simulación mediante Robotstudio de una célula flexible, de transporte y limpieza de androides, visualización en forma secuencial, de un solo ciclo.
 
-Para más información consulte: [Sitio web](http://davidvelascogarcia.blogspot.com.es/p/robotica-industrial.html)
 
-
-
-### Leap motion Drone controller
-        
-Controlador de drone quadcopter, con placa de control arduino.      
-        
-### RL78-G14 Space Invaders
-        
-Clásico juego de arcade Space Invaders, programado en C, para la placa de desarrollo RL78/G14 de Renesas.
-
-
-![](http://docs.exosite.com/development/exositeready/renesas/assets/rdkrl78g14.jpg)
-
-Figura 4. RL78/G14    
-
-### Tensorflow Object Recognition
-        
-Reconocimiento de objetos mediante el uso de la API Tensorflow Object Recognition.
-Detección de objetos del entorno de trabajo tanto por imagen como por cámara en tiempo real.
-
-<img src="./images/Robot Object Recognition.png" width=719 height=412>
-</p>
-
-Figura 5. API Tensorflow Object Recognition
-
-### Bewi Robot humanoide
-        
-Bewi es un robot humanoide de 20 gdl autónomo de apoyo multifuncional. Se trata de un robot autónomo, capaz de analizar el entorno gracias a un sensorizado. Haciéndolo ideal para la detección de dióxido de carbono, alcohol, amoniaco, butano, propano y metano. A su vez, es capaz de detectar la temperatura, permitíendole la detección de fuegos.
-Tiene la capacidad de detección de humedades. Incluye reconocimiento de voz, así como interacción con el usuario a través de la misma. Junto a un sistema de detección y reconocimiento de objetos vía webcam para control a distancia.
-Incluye modo de control manual vía control por voz, medios gestuales y teclado o gamepad.
-
-
-
-![Bewi](./images/image2.jpg)
-
-Figura 1. Prototipo Bewi        
-        
-#### Wish Robot movil
-        
-Wish es un robot móvil autónomo de apoyo multifuncional. Se trata de un robot autónomo, capaz de analizar el entorno gracias a un sensorizado. Haciéndolo ideal para la detección de dióxido de carbono, alcohol, amoniaco, butano, propano y metano. A su vez, es capaz de detectar la temperatura, permitíendole la detección de fuegos. Tiene la capacidad de detección de humedades. Incluye reconocimiento de voz, así como interacción con el usuario a través de la misma. Junto a un sistema de detección y reconocimiento de objetos vía webcam para control a distancia. Incluye modo de control manual vía control por voz, medios gestuales y teclado o gamepad.       
-
-![Wish](./images/image1.jpg)
-
-        
-### Promethus Drone
-        
-Drone inteligente.        
-        
-### Barret Plotter CNC
-        
-Plotter CNC inteligente.
-
-### Medical Scale IMC
-        
-Báscula médica para el cálculo de IMC, con placa de control arduino, LCD y sensor infrarrojo SHARP para media de alturas.
-
-Para más información consulte: [Documentación](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
-        
-#### O.C.R
-        
-**Optical Character Recognition**
-
-*O.C.R es un software libre de código abierto.*
-Se trata de un proyecto de extracción de texto a partir de imágenes, empleando la tecnología OCR.
-Actualmente en fase betha v 1.0, con funcionalidades de extracción de imágenes en ficheros de formato .png, .jpg, .bmp, tiff, .gif.
-Incluye  notificaciones sonoras, mensajes de bienvenida y despedida al usuario.
-
-Desarrollado en C# y .NET, con uso de librerias Speech de Microsoft, así como DLL de desarrollo de Tesseract.
-
-![](https://lh6.googleusercontent.com/proxy/YP6azhl-PvuOcce5XRMPBSNRg3Vpg0xn2FqIwSvnJUKxWf4NRcxJXLhuXTuC-AUS21Mz5eiFgfuT7UPF)
-
-Figura 1. Logo O.C.R
-
-Para más información consulte: 
-
-- [Video](https://www.youtube.com/watch?v=UbUXkQyqtrw&t=1s)
-
-- [WebSite](https://davidvelascogarcia.blogspot.com.es/)
-
-- [Descarga](https://github.com/davidvelascogarcia)
-
-### S.I.D.R.O
-        
-**Sistema de identificación, detección y reconocimiento de objetos**
-
-*S.I.D.R.O es un software libre de código abierto.*
-Se trata de un proyecto de detección, identificación y reconocimiento de objetos, por medio de Machine Learning.
-Actualmente en fase betha v 1.0, con funcionalidades de detección de movimiento y captura de los frames modificados. Incluye nivel de detección ante la variación de las capturas, así como notificaciones sonoras de alarma y mensajes de bienvenida y despedida al usuario.
-Desarrollado en C# y .NET, con uso de librerias Speech de Microsoft, así como DLL de desarrollo de imagen Aforge 2.2.5.
-
-![](https://lh3.googleusercontent.com/proxy/2hN3grXWdM6vvjt3snp_KOYoUoqE2-6YUqe8Z7yoVET7wL2H9znG8IuqYcgPoN0bNX-CrtONxMi4NPRh)
-
-Figura 1. Logo S.I.D.R.O
-
-Para más información consulte: 
-
-- [Video](https://www.youtube.com/watch?v=6xuxJO7wIko)
-
-- [WebSite](https://davidvelascogarcia.blogspot.com.es/)
-
-- [Descarga](https://github.com/davidvelascogarcia)
 
 ## Contact me
 
-- [ORCID](http://orcid.org/0000-0001-7934-2836)         
-- [ResearchGate](https://www.researchgate.net/profile/David_Velasco_Garcia)        
-- [Mendeley](https://www.mendeley.com/profiles/david-velasco-garcia/)      
-- [GitHub](https://github.com/davidvelascogarcia)            
-- [SlideShare](https://es.slideshare.net/DavidVelascoGarcia)        
-- [Linkedin](https://www.linkedin.com/in/davidvelascogarcia/)     
-- [Youtube](https://www.youtube.com/channel/UCsC2ihUdekiNy3KlXhBcH4Q?view_as=subscriberpolymer%3Dtrue)      
-- [Google+](https://plus.google.com/u/0/+DavidVelascoGarcia)   
-- [Thingiverse](https://www.thingiverse.com/davidvelascogarcia/about)         
-- [Blogspot](http://davidvelascogarcia.blogspot.com.es/) 
+<table style="align:center">
+<tr>
+<th>
+[Linkedin](https://www.linkedin.com/in/davidvelascogarcia/)
+</th>
+<th>
+[GitHub](https://github.com/davidvelascogarcia)
+</th>
+<th>
+[ORCID](http://orcid.org/0000-0001-7934-2836)
+</th>
+<th>
+[ResearchGate](https://www.researchgate.net/profile/David_Velasco_Garcia)
+</th>
+<th>
+[Youtube](https://www.youtube.com/channel/UCsC2ihUdekiNy3KlXhBcH4Q?view_as=subscriberpolymer%3Dtrue)
+</th>
+<th>
+[Thingiverse](https://www.thingiverse.com/davidvelascogarcia/about)
+</th>
+<th>
+[Blogspot](http://davidvelascogarcia.blogspot.com.es/)
+</th>
+<th>
+[SlideShare](https://es.slideshare.net/DavidVelascoGarcia)
+</th>
+</tr>
+
+</table>
+
+
