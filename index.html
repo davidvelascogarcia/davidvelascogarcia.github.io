@@ -173,6 +173,7 @@
                <button class="tablinks" onclick="openProjectClass(event, 'knowledge')">Knowledge</button>
                <button class="tablinks" onclick="openProjectClass(event, 'productivity')">Productivity</button>
                <button class="tablinks" onclick="openProjectClass(event, 'security')">Security</button>
+               <button class="tablinks" onclick="openProjectClass(event, 'navigation_planning')">Navigation</button>
             </div>
             <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white tabcontent" id="computer_vision">
                <tr data-toggle="modal" data-target="#tensorflowLiteDetection2D">
@@ -365,6 +366,17 @@
                   <td align="justify">
                      <p><b>GPS Tracker</b></p>
                      <p> Implementation of a GPS tracking system. Receipt of coordinates via YARP. Obtaining and marking of maps via Folium. </p>
+                  </td>
+               </tr>
+            </table>
+            <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white tabcontent" id="navigation_planning">
+               <tr data-toggle="modal" data-target="#hns">
+                  <td style="width: 200px;">
+                     <img src="./images/hns.png" alt="HNS" style="border-radius: 70%; width: 100%">
+                  </td>
+                  <td align="justify">
+                     <p><b>HNS</b></p>
+                     <p>Implementation of Heuristic Navigation System in Python. Network source robot/drone controller via YARP. Broadcast of path planning results over the network, via YARP.</p>
                   </td>
                </tr>
             </table>
@@ -973,6 +985,36 @@
                            <li> Project available on: <a href="https://github.com/davidvelascogarcia/gpsTracker/">Programs</a></li>
                            <li> Documentation available on: <a href="https://davidvelascogarcia.github.io/gpsTracker/">Docs</a></li>
                            <li> Last release: <a href="https://github.com/davidvelascogarcia/gpsTracker/tags"><img src="https://img.shields.io/github/tag/davidvelascogarcia/gpsTracker.svg?label=Latest%20Release" alt="Last release"></a></li>
+                        </ul>
+                        <h4><strong>License:</strong></h4>
+                        <p>Apache 2.0</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- Modal: hns -->
+            <div class="modal fade" id="hns" role="dialog">
+               <div class="modal-dialog">
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title"><strong><a href="https://github.com/davidvelascogarcia/hns/">HNS</a></strong></h4>
+                     </div>
+                     <div class="modal-body">
+                        <center><img src="./images/hns.png" alt="HNS" style="width: 60%; border-radius: 95%"></center>
+                        <h4><strong>Status:</strong></h4>
+                        <a href="https://travis-ci.org/davidvelascogarcia/hns"><img src="https://travis-ci.org/davidvelascogarcia/hns.svg?branch=develop" alt="Build Status"></a>
+                        <a href="https://github.com/davidvelascogarcia/hns/issues"><img src="https://img.shields.io/github/issues/davidvelascogarcia/hns.svg?label=Issues" alt="Issues Status"></a>
+                        <br><br>
+                        <h4><strong>About:</strong></h4>
+                        <p align="justify"><strong><a href="https://github.com/davidvelascogarcia/hns/">HNS</a></strong> Implementation of Heuristic Navigation System in Python. Network source robot/drone controller via YARP. Broadcast of path planning results over the network, via YARP.</p>
+                        <h4><strong>Authors:</strong></h4>
+                        <p><a href="https://github.com/davidvelascogarcia">@davidvelascogarcia</a></p>
+                        <h4><strong>Links:</strong></h4>
+                        <ul>
+                           <li> Project available on: <a href="https://github.com/davidvelascogarcia/hns/">Programs</a></li>
+                           <li> Documentation available on: <a href="https://davidvelascogarcia.github.io/hns/">Docs</a></li>
+                           <li> Last release: <a href="https://github.com/davidvelascogarcia/hns/tags"><img src="https://img.shields.io/github/tag/davidvelascogarcia/hns.svg?label=Latest%20Release" alt="Last release"></a></li>
                         </ul>
                         <h4><strong>License:</strong></h4>
                         <p>Apache 2.0</p>
