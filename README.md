@@ -1,6 +1,13 @@
 # About me
 
-Engineer with 4+ years of work experience in various fields like robotics, automation, software developt, CAD design ... Industrial Engineer. Robotics and Automation Engineer. MSc. D. Industrial Engineering MSc. D. Robotics and Automation B. D. Industrial Technologies Engineering Seal Intensification in Automation and Electronics
+Engineer with 6 years of professional experience. He is a versatile polyglot engineer with a diverse combination of development experience in software and hardware areas. 
+Qualified Industrial Engineer as well as Robotics and Automation Engineer by Madrid Carlos III University. 
+David has experience developing in C/C++ and Python programming languages as well as he has programmed in C#, Go, Java and Swift like multipurpose languages. 
+Also, he has worked with other specific languages like LD, SFC and MATLAB. He has knowledge of cloud-native systems, microservices, TCP/IP, UDP, QUIC, HTTP protocols and system deployment in Docker and Kubernetes Clusters. 
+In a recent engagement he has been working as full stack profile like software designer implementing features for HAPS (High Altitude Pseudo-Satellite) platform like transmission methods in Kubernetes cluster, db connector service with REST and GraphQL APIs support, secure modules, system monitor service with ELK stack. Also, David has worked as well as QA Tester with UT/CT and FT. Deploying implemented solutions in Docker and Kubernetes R&D clusters as well in Capgemini Engineering platform. 
+In another engagement he has contributed to Ericsson in Deep Packet Inspection (DPI) department as software designer and CT/FT Tester developing custom solutions in 4G and 5G networks for EPG and PCG product. 
+David has worked as development engineer for robotics systems and process automation, developing solutions in fields like AI, Computer Vision, Speech Recognition, TTS, autonomous navigation and object manipulation with ML, DL and Reinforcement Learning techniques. 
+Working with CI/CD processes and tools like Git, GitLab, Jenkins, TravisCI, Gerrit, Jira, Grafana, Prometheus, Helm, Ansible, ArgoCD, Trivy, Istio, Maesh, Ingress, Elastic Stack. Applying agile methodology in deliveries work teams
 
 # Website
 
